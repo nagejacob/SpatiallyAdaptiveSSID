@@ -29,7 +29,7 @@ cd validate
 python validate_SIDD.py
 ```
 
-### Training
+### Training (removed due to confidentiality agreement)
 Training on SIDD Medium dataset,
 ```
 sh train.sh
